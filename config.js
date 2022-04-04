@@ -31,9 +31,9 @@ function pickRandom(list) {
 
 // Global Staff
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
-global.linkGC = ['https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'] // ganti jadi group lu
-global.owner = ['62831433937633', '6283143393763' ,'6288217277973','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
-global.mods = ['6285231651905'] // Want some help?
+global.linkGC = ['https://chat.whatsapp.com/HlFildLTBQCKlEdr4Fx6Im'] // ganti jadi group lu
+global.owner = ['6285695487137'] // Put your number here
+global.mods = ['6285695487137'] // Want some help?
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -69,16 +69,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🌙 Ƙαnnα вσт\nwa.me/6283143393763\n\n\n𝙱𝚢 𝙻𝚎𝚝𝚝𝚊 あ\n\n\nFollow IG: @ppiowy_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
+global.packname = '🌙 Gʀɪʏᴢᴇʟ вσт\nwa.me/6283143393763\n\n\n𝙱𝚢 𝙶𝚛𝚒𝚢𝚣𝚎𝚕 あ\n\n\nFollow IG: @griyzel_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
 global.author = '۰ ⸼'
 
 // BOT WM
-global.botwm = '▧ Kαnnα BOT | © ℓetta - sαmα' //UBAH SETERAHMU
-global.wm = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.botwm = '▧ Gʀɪʏᴢᴇʟ BOT | © 𝐆𝐫𝐢𝐲𝐳𝐞𝐥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥' //UBAH SETERAHMU
+global.wm = '✧Gʀɪʏᴢᴇʟ Bᴏᴛ Wᴀ𖣘'
 global.botdate = `❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}`
 
 // LOGO
-global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
+global.imagebot = `https://i.ibb.co/m8fQnDz/20220403-101136.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
 global.thumb1 = 'https://telegra.ph/file/5a882b8558fd1d2bd03fa.jpg'
 global.thumb2 = 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg'
