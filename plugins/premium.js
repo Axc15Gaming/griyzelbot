@@ -11,14 +11,6 @@ let info = `
 ║┊ ⌲ *VIP* = _50k/Permanent_
 ╰═ ┅ ═══════
 
-╭═══ *〘 PAKET HEMAT 〙*
-║ ┅ ๑————————————๑
-║┊ ⌲ _20k (Sewa 1 bulan, premium 1 Bulan)_
-║┊ ⌲ _30k (Sewa 2 bulan, premium 1.5 bulan)_
-║┊ ⌲  _45k (8 Bulan sewa, 5 Bulan premium)_
-║┊ ⌲  _65k (all permanent)_
-╰═ ┅ ═══════
-
 ༅ _*KEUNTUNGAN USER PREMIUM*_
 
 ✧ *Fitur Premium Terbuka*
@@ -34,7 +26,7 @@ let info = `
 
 ◪ *Jika Minat Hubungi owner kami*
 ◪ *Atau Masuk Group Official Bot*
-_https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT_
+_https://chat.whatsapp.com/HlFildLTBQCKlEdr4Fx6Im
 
 ▌│█║▌║▌║║▌║▌║█│▌
 ▌│█║▌║▌║║▌║▌║█│▌

@@ -19,7 +19,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                             {
                                 "rows": [{
                                          "title": 'LIST MENU',
-                                         "description": "List Menu Kanna BOT",
+                                         "description": "List Menu Griyzel BOT",
                                          "rowId": ".menu"
                                     }, {
                                          "title": 'RULES', 
